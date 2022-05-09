@@ -248,7 +248,7 @@ header h1 {
 .contact-info ul li {
     color: var(--white);
     list-style: none;
-    margin: 10px 0;
+    margin: 10px 1px;
 }
 
 
